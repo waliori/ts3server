@@ -1,0 +1,28 @@
+2020-11-16 23:42:21.194166|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.12.1 (2020-03-27 10:38:47)
+2020-11-16 23:42:21.199185|INFO    |ServerLibPriv |   |SystemInformation: Linux 5.4.0-51-generic #56-Ubuntu SMP Mon Oct 5 14:28:49 UTC 2020 x86_64 Binary: 64bit
+2020-11-16 23:42:21.199250|INFO    |ServerLibPriv |   |Using hardware aes
+2020-11-16 23:42:21.199604|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2020-11-16 23:42:21.199647|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2020-11-16 23:42:21.199850|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2020-11-16 23:42:21.213687|INFO    |SQL           |   |db_CreateTables() tables created
+2020-11-16 23:42:21.248867|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2020-11-16 23:42:21.260594|INFO    |Accounting    |   |Licensing Information
+2020-11-16 23:42:21.260818|INFO    |Accounting    |   |licensed to       : Anonymous
+2020-11-16 23:42:21.261038|INFO    |Accounting    |   |type              : No License
+2020-11-16 23:42:21.261219|INFO    |Accounting    |   |starting date     : Sat Feb  1 00:00:00 2020
+2020-11-16 23:42:21.261403|INFO    |Accounting    |   |ending date       : Mon Feb  1 00:00:00 2021
+2020-11-16 23:42:21.261578|INFO    |Accounting    |   |max virtualservers: 1
+2020-11-16 23:42:21.261742|INFO    |Accounting    |   |max slots         : 32
+2020-11-16 23:42:22.837216|INFO    |              |   |Puzzle precompute time: 1547
+2020-11-16 23:42:22.840908|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2020-11-16 23:42:22.841971|INFO    |VirtualSvrMgr |   |executing monthly interval
+2020-11-16 23:42:22.842113|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2020-11-16 23:42:22.891091|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2020-11-16 23:42:22.891638|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1/32, ::1/128, 
+2020-11-16 23:42:23.105003|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2020-11-17 09:22:53.971501|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2020-11-17 11:24:55.745776|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2020-11-17 11:45:50.600380|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2020-11-17 12:46:03.479142|INFO    |DatabaseQuery |   |database busy, waiting for finishing index tasks, may take some time!
+2020-11-17 12:46:53.488231|WARNING |PktHandler    |   |detected incorrectly running system clock (<)
+2020-11-17 12:48:45.702680|INFO    |ServerMain    |   |Received signal SIGTERM, shutting down.

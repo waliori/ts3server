@@ -1,0 +1,382 @@
+2021-02-01 14:31:12.391909|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.13.3 (2020-12-16 14:17:05)
+2021-02-01 14:31:12.393658|INFO    |ServerLibPriv |   |SystemInformation: Linux 5.4.0-56-generic #62-Ubuntu SMP Mon Nov 23 19:20:19 UTC 2020 x86_64 Binary: 64bit
+2021-02-01 14:31:12.393704|INFO    |ServerLibPriv |   |Using hardware aes
+2021-02-01 14:31:12.394020|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2021-02-01 14:31:12.394063|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2021-02-01 14:31:12.395474|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2021-02-01 14:31:12.590556|INFO    |SQL           |   |database updated successfully to revision: 34
+2021-02-01 14:31:12.611179|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2021-02-01 14:31:12.624953|INFO    |Accounting    |   |Licensing Information
+2021-02-01 14:31:12.625277|INFO    |Accounting    |   |licensed to       : Anonymous
+2021-02-01 14:31:12.625451|INFO    |Accounting    |   |type              : No License
+2021-02-01 14:31:12.625641|INFO    |Accounting    |   |starting date     : Thu Oct  1 00:00:00 2020
+2021-02-01 14:31:12.625821|INFO    |Accounting    |   |ending date       : Tue Nov  1 00:00:00 2022
+2021-02-01 14:31:12.625991|INFO    |Accounting    |   |max virtualservers: 1
+2021-02-01 14:31:12.626148|INFO    |Accounting    |   |max slots         : 32
+2021-02-01 14:31:14.428947|INFO    |              |   |Puzzle precompute time: 1775
+2021-02-01 14:31:14.432303|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2021-02-01 14:31:14.434994|INFO    |Query         |   |Using a query thread pool size of 2
+2021-02-01 14:31:14.599832|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2021-02-01 14:31:14.600474|INFO    |CIDRManager   |   |updated query_ip_allowlist ips: 127.0.0.1/32, ::1/128, 
+2021-02-01 14:31:14.600732|WARNING |ServerMain    |   |Warning - name 'query_ip_whitelist' from file /var/run/ts3server/ts3server.ini is deprecated (but understood), please use the new name 'query_ip_allowlist' instead.
+2021-02-01 14:31:14.600933|WARNING |ServerMain    |   |Warning - name 'query_ip_blacklist' from file /var/run/ts3server/ts3server.ini is deprecated (but understood), please use the new name 'query_ip_denylist' instead.
+2021-02-01 14:37:33.690313|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-01 14:50:30.636158|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-01 14:50:30.638193|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-01 14:56:07.958974|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-01 14:56:07.960971|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3205332715": No such file or directory
+2021-02-01 14:56:07.962904|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_157620106": No such file or directory
+2021-02-01 14:59:01.980391|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-01 15:09:32.112997|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-01 17:49:26.498541|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2166181182": No such file or directory
+2021-02-01 17:51:01.759826|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-01 17:51:24.909333|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-01 18:00:07.028662|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-01 18:13:38.183838|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-01 18:13:38.252522|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-01 18:13:38.657411|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-01 18:13:38.834020|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-01 18:13:38.835585|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-01 18:15:08.459257|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-01 18:15:08.619610|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-01 18:15:08.621080|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-01 18:18:05.851394|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-01 18:18:06.028977|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-01 18:18:06.030474|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-01 18:19:30.439144|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-01 18:19:30.596153|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-01 18:19:30.597707|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-01 18:21:03.742984|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-01 18:21:03.904150|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-01 18:21:03.906848|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-01 18:22:13.978186|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-01 18:22:14.126164|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-01 18:22:14.127712|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-01 18:23:24.233365|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-01 18:23:24.383577|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-01 18:23:24.384772|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-01 18:24:47.367653|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-01 18:24:47.525736|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-01 18:24:47.527433|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-01 18:35:44.050005|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_582334931": No such file or directory
+2021-02-01 18:35:45.458776|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-01 18:44:34.640947|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-01 20:06:36.284637|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1404323408": No such file or directory
+2021-02-01 20:06:36.285348|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3889272611": No such file or directory
+2021-02-01 20:06:36.288466|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2166181182": No such file or directory
+2021-02-01 20:06:36.290368|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_6126838": No such file or directory
+2021-02-01 20:06:36.291382|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3205332715": No such file or directory
+2021-02-01 20:06:36.372597|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_157620106": No such file or directory
+2021-02-01 20:06:36.374424|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3746480419": No such file or directory
+2021-02-01 21:04:07.594091|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-01 21:15:07.182537|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-01 21:15:07.372615|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-01 21:15:07.374413|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-01 21:15:07.375629|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-01 21:19:21.100601|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-01 21:19:22.516935|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-01 21:19:22.517702|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-01 21:19:22.519765|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-01 22:27:24.776228|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-02 12:49:54.142122|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-02 15:38:55.745432|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-02 16:26:44.677138|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-02 16:32:41.998189|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-02 16:32:42.213440|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-02 16:32:42.215329|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-02 16:40:59.789521|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1404323408": No such file or directory
+2021-02-02 16:40:59.791750|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-02 16:40:59.793306|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3889272611": No such file or directory
+2021-02-02 16:40:59.794266|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2166181182": No such file or directory
+2021-02-02 16:40:59.796271|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_6126838": No such file or directory
+2021-02-02 16:40:59.884496|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3205332715": No such file or directory
+2021-02-02 16:40:59.886298|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_157620106": No such file or directory
+2021-02-02 16:40:59.888375|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3746480419": No such file or directory
+2021-02-02 17:54:00.383469|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-02 17:54:00.384237|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-02 17:54:00.440674|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-02 17:54:00.442602|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3205332715": No such file or directory
+2021-02-02 17:54:00.444458|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_157620106": No such file or directory
+2021-02-02 17:54:00.557531|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-02 18:00:23.528938|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-02 18:19:17.932637|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_582334931": No such file or directory
+2021-02-02 18:19:19.595275|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-02 18:37:55.874099|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-02 18:37:55.989818|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-02 18:37:55.991193|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-02 18:37:55.992590|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-02 18:38:54.512894|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-02 18:38:54.676490|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-02 18:38:54.677872|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-02 18:38:54.679848|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-02 18:39:45.410886|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-02 18:39:45.571047|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-02 18:39:45.572409|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-02 18:39:45.574105|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-02 19:23:39.647528|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-02 19:23:39.848424|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-02 19:23:39.850167|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-02 19:23:39.851099|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-02 23:03:01.579471|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-02 23:03:01.581301|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-02 23:03:01.599614|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_582334931": No such file or directory
+2021-02-02 23:03:01.602579|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-02 23:03:01.604549|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3205332715": No such file or directory
+2021-02-02 23:03:01.747580|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_157620106": No such file or directory
+2021-02-03 12:49:54.562765|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-03 14:40:22.859206|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-03 14:46:52.960808|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-03 16:36:08.435716|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-03 17:03:17.937515|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-03 17:03:18.514817|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-03 18:13:53.079928|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-03 18:13:53.081771|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-03 18:13:53.257825|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_582334931": No such file or directory
+2021-02-03 18:13:53.259611|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-03 18:13:53.261524|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-03 18:35:41.701958|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3205332715": No such file or directory
+2021-02-03 18:35:41.703888|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_157620106": No such file or directory
+2021-02-03 20:18:54.048334|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-03 21:39:02.260282|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-03 21:43:54.345219|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-03 21:56:49.757913|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-04 12:49:54.675154|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-04 15:43:40.572895|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-04 16:19:33.114734|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-04 17:26:18.882321|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-04 17:43:37.884088|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-04 18:34:04.861136|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-04 19:02:33.092150|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-04 19:02:33.093475|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-04 19:02:33.247796|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_582334931": No such file or directory
+2021-02-04 19:02:33.250581|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-04 19:02:33.252601|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-04 19:27:41.841243|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3205332715": No such file or directory
+2021-02-04 19:27:41.843181|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_157620106": No such file or directory
+2021-02-04 19:41:48.940329|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-04 19:41:49.089053|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-04 19:41:49.091011|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-04 19:45:19.880000|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1404323408": No such file or directory
+2021-02-04 19:45:19.881809|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-04 19:45:19.883901|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3889272611": No such file or directory
+2021-02-04 19:45:19.885776|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2166181182": No such file or directory
+2021-02-04 19:45:19.886704|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_6126838": No such file or directory
+2021-02-04 19:45:19.999973|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3205332715": No such file or directory
+2021-02-04 19:45:20.002006|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_157620106": No such file or directory
+2021-02-04 19:45:20.003815|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3746480419": No such file or directory
+2021-02-04 19:46:26.034171|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-04 19:46:26.254130|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-04 19:46:26.255691|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-04 19:50:46.833812|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-04 19:50:46.998042|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-04 19:50:46.999791|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-04 19:51:05.952716|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-04 19:51:06.231630|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-04 19:51:06.233416|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-04 19:59:56.513107|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-04 19:59:56.931210|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-04 19:59:56.933148|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-04 20:18:54.844101|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1404323408": No such file or directory
+2021-02-04 20:18:54.846000|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-04 20:18:54.848060|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3889272611": No such file or directory
+2021-02-04 20:18:54.850136|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2166181182": No such file or directory
+2021-02-04 20:18:54.852088|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_6126838": No such file or directory
+2021-02-04 20:18:54.947046|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3205332715": No such file or directory
+2021-02-04 20:18:54.949045|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_157620106": No such file or directory
+2021-02-04 20:18:54.951987|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3746480419": No such file or directory
+2021-02-04 20:39:38.023876|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-04 20:39:38.025723|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-04 20:39:38.027711|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-04 20:39:45.555912|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1404323408": No such file or directory
+2021-02-04 20:39:45.557706|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-04 20:39:45.558619|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3889272611": No such file or directory
+2021-02-04 20:39:45.560691|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2166181182": No such file or directory
+2021-02-04 20:39:45.561678|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_6126838": No such file or directory
+2021-02-04 20:39:45.694597|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3205332715": No such file or directory
+2021-02-04 20:39:45.696630|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_157620106": No such file or directory
+2021-02-04 20:39:45.698535|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3746480419": No such file or directory
+2021-02-04 22:13:22.918259|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-04 22:13:23.064889|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-04 22:13:23.066482|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-05 10:40:37.265493|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-05 10:40:37.358645|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-05 10:40:37.401530|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-05 12:49:54.878591|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-05 13:00:50.531624|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1404323408": No such file or directory
+2021-02-05 13:00:50.533331|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-05 13:00:50.536381|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3889272611": No such file or directory
+2021-02-05 13:00:50.537425|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2166181182": No such file or directory
+2021-02-05 13:00:50.539445|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_6126838": No such file or directory
+2021-02-05 13:00:50.625406|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3205332715": No such file or directory
+2021-02-05 13:00:50.627356|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_157620106": No such file or directory
+2021-02-05 13:00:50.629433|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3746480419": No such file or directory
+2021-02-05 13:11:17.094179|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-05 13:11:17.306127|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-05 13:11:17.308052|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-05 13:21:28.984442|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1404323408": No such file or directory
+2021-02-05 13:21:28.986346|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-05 13:21:28.988298|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3889272611": No such file or directory
+2021-02-05 13:21:28.989287|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2166181182": No such file or directory
+2021-02-05 13:21:28.991283|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_6126838": No such file or directory
+2021-02-05 13:21:29.098433|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3205332715": No such file or directory
+2021-02-05 13:21:29.100292|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_157620106": No such file or directory
+2021-02-05 13:21:29.101302|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3746480419": No such file or directory
+2021-02-05 13:30:25.771071|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-05 13:30:25.950308|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-05 13:33:15.904369|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-05 13:33:16.893474|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1404323408": No such file or directory
+2021-02-05 13:33:16.894221|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-05 13:33:16.897791|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3889272611": No such file or directory
+2021-02-05 13:33:16.898004|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2166181182": No such file or directory
+2021-02-05 13:33:16.899465|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_6126838": No such file or directory
+2021-02-05 13:33:17.048216|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3205332715": No such file or directory
+2021-02-05 13:33:17.050088|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_157620106": No such file or directory
+2021-02-05 13:33:17.051570|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3746480419": No such file or directory
+2021-02-05 17:26:17.418222|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-05 17:26:17.425346|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-05 17:26:17.601269|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-05 17:26:17.605669|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3205332715": No such file or directory
+2021-02-05 17:26:17.605811|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_157620106": No such file or directory
+2021-02-05 17:26:17.607325|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-05 20:36:41.611110|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_582334931": No such file or directory
+2021-02-05 20:36:42.087558|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-05 20:44:45.245273|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-05 20:44:45.246278|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-05 20:44:45.248090|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-05 20:44:48.033921|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1404323408": No such file or directory
+2021-02-05 20:44:48.034675|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-05 20:44:48.036469|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3889272611": No such file or directory
+2021-02-05 20:44:48.038424|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2166181182": No such file or directory
+2021-02-05 20:44:48.039441|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_6126838": No such file or directory
+2021-02-05 20:44:48.204514|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3205332715": No such file or directory
+2021-02-05 20:44:48.206446|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_157620106": No such file or directory
+2021-02-05 20:44:48.208484|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3746480419": No such file or directory
+2021-02-05 21:36:17.183142|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-06 08:42:50.125404|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-06 12:49:55.172272|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-06 16:41:53.286386|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-06 16:41:53.290869|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-06 16:41:53.485676|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-06 16:41:53.488018|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3205332715": No such file or directory
+2021-02-06 16:41:53.489719|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_157620106": No such file or directory
+2021-02-06 16:41:53.490735|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-06 17:22:31.271264|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_582334931": No such file or directory
+2021-02-06 17:22:31.628482|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-06 17:27:50.012222|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-06 20:46:52.997054|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-06 20:46:53.205328|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-06 20:46:53.205836|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-06 20:46:53.527956|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-06 20:47:13.228679|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_582334931": No such file or directory
+2021-02-06 20:47:13.229228|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3205332715": No such file or directory
+2021-02-06 20:47:13.229532|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_157620106": No such file or directory
+2021-02-07 11:16:39.469126|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-07 12:37:06.422995|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-07 12:37:06.424759|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-07 12:49:55.118946|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-07 13:12:45.219904|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-07 13:12:45.221581|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-07 15:36:47.623807|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-07 16:04:53.614100|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-07 16:04:53.616092|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3205332715": No such file or directory
+2021-02-07 16:04:53.617077|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_157620106": No such file or directory
+2021-02-07 16:05:28.734449|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-07 17:06:12.595053|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-07 17:36:36.879878|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-07 17:36:36.881896|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-07 17:36:37.119565|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_582334931": No such file or directory
+2021-02-07 17:36:37.288659|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-07 17:36:37.290546|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-07 17:52:39.266022|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3205332715": No such file or directory
+2021-02-07 17:52:39.267967|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_157620106": No such file or directory
+2021-02-07 22:54:12.452191|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-08 07:51:25.402065|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-08 07:51:25.406254|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-08 10:00:10.266554|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-08 10:00:10.267025|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-08 11:25:19.142744|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-08 12:49:55.390034|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-08 16:11:46.607073|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-08 19:03:35.193023|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-08 19:45:16.651477|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-08 19:45:16.651654|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-08 20:08:37.554517|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3205332715": No such file or directory
+2021-02-08 20:08:37.556339|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_157620106": No such file or directory
+2021-02-08 20:35:26.887512|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-08 20:35:26.889145|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-08 20:35:27.164361|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_582334931": No such file or directory
+2021-02-08 20:35:27.195340|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-08 20:35:27.197249|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3205332715": No such file or directory
+2021-02-08 20:35:27.198052|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_157620106": No such file or directory
+2021-02-08 20:35:27.200137|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-08 22:31:50.664673|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-09 11:18:27.672256|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-09 12:49:55.529053|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-09 14:07:27.439840|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-09 15:43:29.622180|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-09 15:43:29.622907|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-09 15:43:29.758198|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-09 18:04:03.154678|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-09 18:43:48.364373|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-09 19:10:21.926133|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3205332715": No such file or directory
+2021-02-09 19:10:21.927864|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_157620106": No such file or directory
+2021-02-09 19:56:49.532830|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-09 19:56:49.534560|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-09 19:56:49.553499|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-09 19:56:49.565681|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3205332715": No such file or directory
+2021-02-09 19:56:49.570663|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_157620106": No such file or directory
+2021-02-09 19:56:49.694831|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-09 19:57:48.494037|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-09 20:15:13.567598|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-09 20:15:13.568526|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-09 20:15:13.615576|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-09 20:15:13.617485|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3205332715": No such file or directory
+2021-02-09 20:15:13.618432|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_157620106": No such file or directory
+2021-02-09 20:15:13.719666|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_582334931": No such file or directory
+2021-02-09 20:15:13.725470|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-09 20:27:48.364013|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1404323408": No such file or directory
+2021-02-09 20:27:48.365064|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3889272611": No such file or directory
+2021-02-09 20:27:48.367031|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2166181182": No such file or directory
+2021-02-09 20:27:48.368042|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_6126838": No such file or directory
+2021-02-09 20:27:48.370207|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3746480419": No such file or directory
+2021-02-09 23:07:03.106801|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-09 23:28:41.899564|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-10 11:12:38.501650|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-10 11:20:39.175227|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-10 11:20:39.176918|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-10 12:23:50.028838|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-10 12:23:51.029749|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_1404323408": No such file or directory
+2021-02-10 12:23:51.030557|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-10 12:23:51.032479|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3889272611": No such file or directory
+2021-02-10 12:23:51.033462|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2166181182": No such file or directory
+2021-02-10 12:23:51.035462|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_6126838": No such file or directory
+2021-02-10 12:23:51.144698|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3205332715": No such file or directory
+2021-02-10 12:23:51.146540|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_157620106": No such file or directory
+2021-02-10 12:23:51.148535|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3746480419": No such file or directory
+2021-02-10 12:49:55.727277|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-10 18:26:06.476841|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-10 19:00:45.202421|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-10 19:00:45.207387|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-10 19:00:45.375347|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-10 19:00:45.375959|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-10 19:12:56.495204|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_582334931": No such file or directory
+2021-02-10 19:12:57.287472|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-10 19:28:19.682776|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-10 19:28:19.684825|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-10 19:28:19.858799|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_582334931": No such file or directory
+2021-02-10 19:28:19.860633|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-10 19:28:19.863627|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-10 19:31:03.175382|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-10 19:31:03.177263|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-10 19:31:03.380494|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3347185561": No such file or directory
+2021-02-10 19:31:03.393432|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2379257560": No such file or directory
+2021-02-10 20:30:32.843473|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3205332715": No such file or directory
+2021-02-10 20:30:32.844314|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_157620106": No such file or directory
+2021-02-10 20:49:49.188260|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_3205332715": No such file or directory
+2021-02-10 20:49:49.190141|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_157620106": No such file or directory
+2021-02-11 12:49:55.855963|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-02-11 14:37:44.455747|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-11 14:37:44.457563|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory
+2021-02-11 15:48:10.050449|ERROR   |FileHelp      |   |Error getting FileDateTime No such file or directory
+2021-02-11 15:50:06.579465|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2766998993": No such file or directory
+2021-02-11 15:50:06.581293|INFO    |              |   |Error opening file "files/virtualserver_1/internal/icons/icon_2513547458": No such file or directory

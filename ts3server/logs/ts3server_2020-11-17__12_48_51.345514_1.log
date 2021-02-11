@@ -1,0 +1,139 @@
+2020-11-17 12:49:33.022439|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2020-11-17 13:26:50.026547|INFO    |VirtualServer |1  |client (id:31) was added to servergroup 'ADMIN'(id:9) by client ''Nemesis'(id:6)
+2020-11-17 15:48:16.645802|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2020-11-17 16:45:53.997418|INFO    |VirtualServer |1  |client (id:6) was removed from servergroup 'LEAGUE OF LEGENDS'(id:7) by client ''Nemesis'(id:6)
+2020-11-17 16:45:57.103103|INFO    |VirtualServer |1  |client (id:6) was added to servergroup 'LEAGUE OF LEGENDS'(id:7) by client ''Nemesis'(id:6)
+2020-11-17 16:46:28.656808|INFO    |VirtualServer |1  |client (id:6) was removed from servergroup 'BLACK DESERT'(id:12) by client ''Nemesis'(id:6)
+2020-11-17 16:46:34.064481|INFO    |VirtualServer |1  |client (id:6) was removed from servergroup 'AION'(id:10) by client ''Nemesis'(id:6)
+2020-11-17 18:38:35.819418|INFO    |VirtualServer |1  |client (id:33) was added to servergroup 'ADMIN'(id:9) by client ''Nemesis'(id:6)
+2020-11-17 18:38:40.476161|INFO    |VirtualServer |1  |client (id:33) was added to servergroup 'AION'(id:10) by client ''Nemesis'(id:6)
+2020-11-17 19:08:04.175146|INFO    |PktHandler    |1  |Dropping client 9 because of ping timeout 19 0 0
+2020-11-17 19:16:31.965785|INFO    |PktHandler    |1  |Dropping client 12 because of ping timeout 19 0 0
+2020-11-17 19:45:56.788791|INFO    |PktHandler    |1  |Dropping client 10 because of ping timeout 19 0 0
+2020-11-17 22:41:55.939556|INFO    |VirtualServer |1  |client (id:9) was added to servergroup 'MODERATEUR'(id:17) by client ''Nemesis'(id:6)
+2020-11-18 08:55:46.001590|INFO    |VirtualServer |1  |permission 'i_channel_needed_delete_power'(id:133) with values (value:95) was added by ''Nemesis'(id:6) to channel 'SALOUN'(id:37)
+2020-11-18 08:55:46.002086|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:95) was added by ''Nemesis'(id:6) to channel 'SALOUN'(id:37)
+2020-11-18 08:55:46.002601|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:95) was added by ''Nemesis'(id:6) to channel 'SALOUN'(id:37)
+2020-11-18 08:55:46.003055|INFO    |VirtualServer |1  |permission 'i_channel_needed_description_view_power'(id:144) with values (value:95) was added by ''Nemesis'(id:6) to channel 'SALOUN'(id:37)
+2020-11-18 08:56:35.940959|INFO    |VirtualServer |1  |servergroup 'ADMIN'(id:9) was copied by ''Nemesis'(id:6) to ' '(id:18)
+2020-11-18 08:56:46.383822|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) was deleted by ''Nemesis'(id:6) from servergroup ' '(id:18)
+2020-11-18 08:56:55.401016|INFO    |VirtualServer |1  |permission 'i_group_sort_id'(id:151) with values (value:30, negated:0, skipchannel:0) was added by ''Nemesis'(id:6) to servergroup ' '(id:18)
+2020-11-18 08:57:02.961024|INFO    |VirtualServer |1  |permission 'i_group_sort_id'(id:151) with values (value:101, negated:0, skipchannel:0) was added by ''Nemesis'(id:6) to servergroup ' '(id:18)
+2020-11-18 08:57:23.959494|INFO    |VirtualServer |1  |permission 'i_channel_subscribe_power'(id:141) with values (value:95, negated:0, skipchannel:0) was added by ''Nemesis'(id:6) to servergroup ' '(id:18)
+2020-11-18 08:57:31.818087|INFO    |VirtualServer |1  |permission 'i_channel_join_power'(id:139) with values (value:95, negated:0, skipchannel:0) was added by ''Nemesis'(id:6) to servergroup ' '(id:18)
+2020-11-18 08:58:15.835573|INFO    |VirtualServer |1  |permission 'i_channel_description_view_power'(id:143) with values (value:95, negated:0, skipchannel:0) was added by ''Nemesis'(id:6) to servergroup ' '(id:18)
+2020-11-18 09:38:10.134630|INFO    |PktHandler    |1  |Dropping client 17 because of ping timeout 19 0 0
+2020-11-18 14:02:27.214346|INFO    |VirtualServer |1  |client ''Nemesis'(id:6) was added to channelgroup 'Guest'(id:8) by client ''Nemesis'(id:6) in channel 'BLIND'(id:31)
+2020-11-18 18:27:21.402068|INFO    |PktHandler    |1  |Dropping client 25 because of ping timeout 19 0 0
+2020-11-18 20:33:37.290341|INFO    |VirtualServer |1  |client (id:37) was added to servergroup 'ADMIN'(id:9) by client ''Nemesis'(id:6)
+2020-11-18 20:33:44.211359|INFO    |VirtualServer |1  |client (id:37) was added to servergroup 'AION'(id:10) by client ''Nemesis'(id:6)
+2020-11-18 20:54:05.689170|INFO    |PktHandler    |1  |Dropping client 28 because of ping timeout 19 0 0
+2020-11-18 22:02:14.964735|INFO    |PktHandler    |1  |Dropping client 21 because of ping timeout 19 0 0
+2020-11-18 22:12:37.782930|INFO    |VirtualServer |1  |client ''Nemesis'(id:6) was added to channelgroup 'Guest'(id:8) by client ''Nemesis'(id:6) in channel 'PVE'(id:34)
+2020-11-18 22:37:06.658621|INFO    |PktHandler    |1  |Dropping client 29 because of ping timeout 19 0 0
+2020-11-18 22:52:53.274680|INFO    |PktHandler    |1  |Dropping client 20 because of ping timeout 19 0 0
+2020-11-19 17:42:17.169101|INFO    |PktHandler    |1  |Dropping client 43 because of ping timeout 19 0 0
+2020-11-19 18:01:40.507767|INFO    |PktHandler    |1  |Cleaning up connection because of 2 resends of COMMAND packet
+2020-11-19 18:01:40.508375|INFO    |PktHandler    |1  |Dropping client 45 because of resend timeout
+2020-11-19 19:58:47.465121|INFO    |PktHandler    |1  |Dropping client 51 because of ping timeout 19 0 0
+2020-11-19 20:07:05.466813|INFO    |PktHandler    |1  |Dropping client 41 because of ping timeout 19 0 0
+2020-11-19 21:08:57.955115|INFO    |PktHandler    |1  |Dropping client 53 because of ping timeout 19 0 0
+2020-11-20 00:00:14.626838|INFO    |PktHandler    |1  |Cleaning up connection because of 12 resends of COMMAND packet
+2020-11-20 00:00:14.631591|INFO    |PktHandler    |1  |Dropping client 56 because of resend timeout
+2020-11-20 13:22:47.833325|INFO    |PktHandler    |1  |Dropping client 62 because of ping timeout 19 0 0
+2020-11-20 19:38:31.729839|INFO    |VirtualServer |1  |client ''Nemesis'(id:6) was added to channelgroup 'Guest'(id:8) by client ''Nemesis'(id:6) in channel 'PVP'(id:35)
+2020-11-20 23:39:21.551368|INFO    |PktHandler    |1  |Dropping client 74 because of ping timeout 19 0 0
+2020-11-21 12:16:29.044445|INFO    |PktHandler    |1  |Dropping client 78 because of ping timeout 19 0 0
+2020-11-21 16:51:01.603046|INFO    |VirtualServer |1  |client ''Nemesis'(id:6) was added to channelgroup 'Guest'(id:8) by client ''Nemesis'(id:6) in channel 'EXP'(id:33)
+2020-11-21 17:03:31.216871|INFO    |PktHandler    |1  |Dropping client 89 because of ping timeout 19 0 0
+2020-11-21 17:07:03.629540|INFO    |PktHandler    |1  |Dropping client 91 because of ping timeout 19 0 0
+2020-11-21 17:09:33.964651|INFO    |PktHandler    |1  |Dropping client 92 because of ping timeout 19 0 0
+2020-11-21 18:22:56.751304|INFO    |PktHandler    |1  |Dropping client 93 because of ping timeout 19 0 0
+2020-11-21 22:15:10.955738|INFO    |PktHandler    |1  |Cleaning up connection because of 8 resends of COMMAND packet
+2020-11-21 22:15:10.956656|INFO    |PktHandler    |1  |Dropping client 80 because of resend timeout
+2020-11-21 22:17:34.929173|INFO    |PktHandler    |1  |Cleaning up connection because of 5 resends of COMMAND packet
+2020-11-21 22:17:34.929890|INFO    |PktHandler    |1  |Dropping client 100 because of resend timeout
+2020-11-21 22:18:18.117178|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2020-11-21 22:18:18.117290|INFO    |PktHandler    |1  |Dropping client 101 because of resend timeout
+2020-11-21 22:19:10.816123|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2020-11-21 22:19:10.816738|INFO    |PktHandler    |1  |Dropping client 102 because of resend timeout
+2020-11-21 22:19:49.801037|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2020-11-21 22:19:49.801151|INFO    |PktHandler    |1  |Dropping client 103 because of resend timeout
+2020-11-21 23:58:46.696551|INFO    |PktHandler    |1  |Dropping client 97 because of ping timeout 19 0 0
+2020-11-22 01:09:34.821533|INFO    |PktHandler    |1  |Dropping client 104 because of ping timeout 19 0 0
+2020-11-22 17:01:09.291495|INFO    |VirtualServer |1  |client (id:42) was added to servergroup 'ADMIN'(id:9) by client ''Nemesis'(id:6)
+2020-11-22 17:01:12.296072|INFO    |VirtualServer |1  |client (id:42) was added to servergroup 'AION'(id:10) by client ''Nemesis'(id:6)
+2020-11-23 15:43:01.091078|INFO    |PktHandler    |1  |Dropping client 122 because of ping timeout 19 0 0
+2020-11-23 23:25:28.278775|INFO    |PktHandler    |1  |Dropping client 127 because of ping timeout 19 0 0
+2020-11-24 00:07:35.886036|INFO    |PktHandler    |1  |Dropping client 134 because of ping timeout 19 0 0
+2020-11-24 00:18:29.076555|INFO    |PktHandler    |1  |Dropping client 138 because of ping timeout 19 0 0
+2020-11-24 00:20:15.286756|INFO    |PktHandler    |1  |Dropping client 139 because of ping timeout 19 0 0
+2020-11-24 19:03:36.521819|INFO    |PktHandler    |1  |Dropping client 150 because of ping timeout 19 0 0
+2020-11-24 21:02:31.970037|INFO    |PktHandler    |1  |Dropping client 146 because of ping timeout 19 0 0
+2020-11-25 07:42:23.139118|INFO    |PktHandler    |1  |Dropping client 147 because of ping timeout 19 0 0
+2020-11-25 12:46:40.827252|INFO    |PktHandler    |1  |Dropping client 154 because of ping timeout 19 0 0
+2020-11-25 13:02:43.546616|INFO    |PktHandler    |1  |Dropping client 155 because of ping timeout 19 0 0
+2020-11-25 15:37:02.855166|INFO    |PktHandler    |1  |Dropping client 160 because of ping timeout 19 0 0
+2020-11-25 16:08:41.307275|INFO    |PktHandler    |1  |Dropping client 162 because of ping timeout 19 0 0
+2020-11-25 16:08:53.328751|INFO    |PktHandler    |1  |Dropping client 157 because of ping timeout 19 0 0
+2020-11-25 19:05:01.420698|INFO    |VirtualServer |1  |client (id:31) was added to servergroup ' '(id:18) by client ''Nemesis'(id:6)
+2020-11-25 20:39:22.534064|INFO    |PktHandler    |1  |Dropping client 158 because of ping timeout 19 0 0
+2020-11-25 23:14:08.167070|INFO    |PktHandler    |1  |Dropping client 167 because of ping timeout 19 0 0
+2020-11-26 17:13:51.116832|INFO    |PktHandler    |1  |Dropping client 174 because of ping timeout 19 0 0
+2020-11-26 20:15:15.235595|INFO    |PktHandler    |1  |Dropping client 183 because of ping timeout 19 0 0
+2020-11-26 20:39:19.050776|INFO    |PktHandler    |1  |Dropping client 176 because of ping timeout 19 0 0
+2020-11-26 21:18:46.703333|INFO    |PktHandler    |1  |Dropping client 180 because of ping timeout 19 0 0
+2020-11-26 21:49:35.385924|INFO    |PktHandler    |1  |Dropping client 187 because of ping timeout 19 0 0
+2020-11-26 21:50:12.461172|INFO    |PktHandler    |1  |Dropping client 188 because of ping timeout 19 0 0
+2020-11-26 22:10:22.831510|INFO    |PktHandler    |1  |Dropping client 189 because of ping timeout 19 0 0
+2020-11-26 22:18:04.715310|INFO    |PktHandler    |1  |Dropping client 190 because of ping timeout 19 0 0
+2020-11-26 23:10:15.616761|INFO    |PktHandler    |1  |Dropping client 178 because of ping timeout 19 0 0
+2020-11-26 23:13:14.965527|INFO    |PktHandler    |1  |Dropping client 182 because of ping timeout 19 0 0
+2020-11-27 11:06:06.405239|INFO    |PktHandler    |1  |Dropping client 194 because of ping timeout 19 0 0
+2020-11-27 12:33:36.217756|INFO    |PktHandler    |1  |Dropping client 200 because of ping timeout 19 0 0
+2020-11-27 13:42:24.212073|INFO    |PktHandler    |1  |Dropping client 206 because of ping timeout 19 0 0
+2020-11-27 14:21:40.855829|INFO    |PktHandler    |1  |Dropping client 199 because of ping timeout 19 0 0
+2020-11-27 14:37:09.659231|INFO    |PktHandler    |1  |Dropping client 197 because of ping timeout 19 0 0
+2020-11-27 15:13:40.887780|INFO    |PktHandler    |1  |Dropping client 202 because of ping timeout 19 0 0
+2020-11-27 17:50:34.622596|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2020-11-27 17:50:34.624771|INFO    |PktHandler    |1  |Dropping client 208 because of resend timeout
+2020-11-27 17:58:22.177446|INFO    |PktHandler    |1  |Dropping client 195 because of ping timeout 19 0 0
+2020-11-27 19:56:17.191603|INFO    |PktHandler    |1  |Dropping client 221 because of ping timeout 19 0 0
+2020-11-27 19:59:39.636390|INFO    |PktHandler    |1  |Dropping client 222 because of ping timeout 19 0 0
+2020-11-27 22:40:14.927047|INFO    |PktHandler    |1  |Cleaning up connection because of 12 resends of COMMAND packet
+2020-11-27 22:40:14.929488|INFO    |PktHandler    |1  |Dropping client 217 because of resend timeout
+2020-11-27 23:17:20.606440|INFO    |PktHandler    |1  |Dropping client 216 because of ping timeout 19 0 0
+2020-11-28 00:52:41.324031|INFO    |PktHandler    |1  |Dropping client 226 because of ping timeout 19 0 0
+2020-11-28 16:38:12.464300|INFO    |PktHandler    |1  |Dropping client 234 because of ping timeout 19 0 0
+2020-11-28 17:48:57.203612|INFO    |VirtualServer |1  |client (id:41) was added to servergroup 'ADMIN'(id:9) by client ''Nemesis'(id:6)
+2020-11-28 18:02:43.069584|INFO    |PktHandler    |1  |Dropping client 232 because of ping timeout 19 0 0
+2020-11-29 18:23:41.841777|INFO    |PktHandler    |1  |Dropping client 252 because of ping timeout 19 0 0
+2020-11-30 11:37:31.565566|INFO    |PktHandler    |1  |Dropping client 259 because of ping timeout 19 0 0
+2020-11-30 20:00:22.969400|INFO    |PktHandler    |1  |Dropping client 260 because of ping timeout 19 0 0
+2020-11-30 21:17:31.935900|INFO    |PktHandler    |1  |Dropping client 267 because of ping timeout 19 0 0
+2020-11-30 22:12:39.628931|INFO    |PktHandler    |1  |Dropping client 262 because of ping timeout 19 0 0
+2020-12-01 18:04:36.926443|INFO    |PktHandler    |1  |Dropping client 277 because of ping timeout 19 0 0
+2020-12-01 19:21:47.367328|INFO    |PktHandler    |1  |Dropping client 272 because of ping timeout 19 0 0
+2020-12-01 19:56:42.076995|INFO    |PktHandler    |1  |Dropping client 275 because of ping timeout 19 0 0
+2020-12-01 20:38:09.441026|INFO    |PktHandler    |1  |Dropping client 274 because of ping timeout 19 0 0
+2020-12-02 02:00:33.624690|INFO    |PktHandler    |1  |Dropping client 284 because of ping timeout 19 0 0
+2020-12-02 13:37:43.200915|INFO    |PktHandler    |1  |Dropping client 285 because of ping timeout 19 0 0
+2020-12-02 16:51:05.529070|INFO    |PktHandler    |1  |Dropping client 292 because of ping timeout 19 0 0
+2020-12-02 16:52:02.647240|INFO    |PktHandler    |1  |Dropping client 293 because of ping timeout 19 0 0
+2020-12-02 16:53:06.774099|INFO    |PktHandler    |1  |Dropping client 294 because of ping timeout 19 0 0
+2020-12-02 20:59:08.932325|INFO    |PktHandler    |1  |Dropping client 290 because of ping timeout 19 0 0
+2020-12-02 21:22:38.294985|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2020-12-02 21:22:38.296844|INFO    |PktHandler    |1  |Dropping client 299 because of resend timeout
+2020-12-02 21:23:35.588449|INFO    |PktHandler    |1  |Dropping client 301 because of ping timeout 19 0 0
+2020-12-02 21:24:31.474075|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2020-12-02 21:24:31.474189|INFO    |PktHandler    |1  |Dropping client 302 because of resend timeout
+2020-12-02 21:25:25.766479|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2020-12-02 21:25:25.767732|INFO    |PktHandler    |1  |Dropping client 303 because of resend timeout
+2020-12-02 21:26:05.293424|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2020-12-02 21:26:05.294515|INFO    |PktHandler    |1  |Dropping client 305 because of resend timeout
+2020-12-03 19:38:43.358605|INFO    |PktHandler    |1  |Cleaning up connection because of 3 resends of COMMAND packet
+2020-12-03 19:38:43.393180|INFO    |PktHandler    |1  |Dropping client 325 because of resend timeout
+2020-12-03 19:56:11.834606|INFO    |PktHandler    |1  |Dropping client 311 because of ping timeout 19 0 0
+2020-12-03 20:58:50.139716|INFO    |PktHandler    |1  |Dropping client 327 because of ping timeout 19 0 0
+2020-12-03 21:59:57.944361|INFO    |PktHandler    |1  |Dropping client 312 because of ping timeout 19 0 0
+2020-12-03 23:03:06.660637|INFO    |PktHandler    |1  |Dropping client 323 because of ping timeout 19 0 0
